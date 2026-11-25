@@ -112,5 +112,5 @@ ID    Title                        Author                 Year
 ## Author
 
 **Mohammad Ayhan Khan**
-B.Tech Computer Science & Engineering, Rungta International Skills University, Bhilai
+Rungta International Skills University, Bhilai
 ERP ID: RU-25-10829
